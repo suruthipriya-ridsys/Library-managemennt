@@ -416,7 +416,7 @@ printf("\xDB\xDB\xDB\xDb\xB2 3. Search Issued Book");
 gotoxy(10,11);
 printf("\xDB\xDB\xDB\xDb\xB2 4. Remove Issued Book");
 gotoxy(10,14);
-printf("Enter a Choice:");
+printf("Enter a Choice:");/* Its My wish*/
 switch(getch())
 {
 case '1':  //issue book
